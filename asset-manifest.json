@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/drum/static/css/main.61aa3552.chunk.css",
+    "main.js": "/drum/static/js/main.c59eec1e.chunk.js",
+    "main.js.map": "/drum/static/js/main.c59eec1e.chunk.js.map",
+    "runtime-main.js": "/drum/static/js/runtime-main.88ac7336.js",
+    "runtime-main.js.map": "/drum/static/js/runtime-main.88ac7336.js.map",
+    "static/js/2.b3e546f9.chunk.js": "/drum/static/js/2.b3e546f9.chunk.js",
+    "static/js/2.b3e546f9.chunk.js.map": "/drum/static/js/2.b3e546f9.chunk.js.map",
+    "index.html": "/drum/index.html",
+    "static/css/main.61aa3552.chunk.css.map": "/drum/static/css/main.61aa3552.chunk.css.map",
+    "static/js/2.b3e546f9.chunk.js.LICENSE.txt": "/drum/static/js/2.b3e546f9.chunk.js.LICENSE.txt",
+    "static/media/boom.15f4fbec.ogg": "/drum/static/media/boom.15f4fbec.ogg",
+    "static/media/clap.1132764d.ogg": "/drum/static/media/clap.1132764d.ogg",
+    "static/media/hihat.841b3716.ogg": "/drum/static/media/hihat.841b3716.ogg",
+    "static/media/kick.10d2a31a.ogg": "/drum/static/media/kick.10d2a31a.ogg",
+    "static/media/index.css": "/drum/static/media/mic.d61fcd86.jpg",
+    "static/media/openhat.33ed152b.ogg": "/drum/static/media/openhat.33ed152b.ogg",
+    "static/media/ride.c630c955.ogg": "/drum/static/media/ride.c630c955.ogg",
+    "static/media/snare.6ca4e2c6.ogg": "/drum/static/media/snare.6ca4e2c6.ogg",
+    "static/media/tink.d5ffaf9a.ogg": "/drum/static/media/tink.d5ffaf9a.ogg",
+    "static/media/tom.927d95f0.ogg": "/drum/static/media/tom.927d95f0.ogg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88ac7336.js",
+    "static/js/2.b3e546f9.chunk.js",
+    "static/css/main.61aa3552.chunk.css",
+    "static/js/main.c59eec1e.chunk.js"
+  ]
+}
